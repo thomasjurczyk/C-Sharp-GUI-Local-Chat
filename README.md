@@ -1,0 +1,2 @@
+# C Sharp GUI GPA Calculator
+ This program allows you to maintain a list of students, add those students to the classes they've taken with the number of credit hours and their GPA in the course, and will then calculate the students' total GPA.
